@@ -3,7 +3,7 @@ main:
   - title: "About"
     url: /about/
   - title: "Experience"
-    url: /EducationalBackground/
+    url: /experience/
   - title: "Projects"
     url: /data-wrangling/
   - title: "Education"
