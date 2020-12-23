@@ -22,7 +22,15 @@ Seminar I and II
 
 
 ## M.Sc., Data Science, South Dakota State University, 2020-2021
-Courses Include...
+
+### Big Ideas / Takeaways
+<details>
+  <summary>Click to expand!</summary>
+<details>
+  
+### Courses
+<details>
+  <summary>Click to expand!</summary>
 Stat 600
 Stat 601 and 602
 Operations Research
@@ -32,17 +40,20 @@ Data Mining
 Stat 542
 Non-parametric statistics
 Predictive analytics
-
+<details>
 
 ## B.Sc., Biochemistry, University of Jamestown, 2013-2017
+### Big Ideas
+<details>
+  <summary>Click to expand!</summary>
 Big Ideas: Energy minimization (increasing entropy), networked systems (delegation, safe-guards), information (quantifiable measurements), and rate of change (anticipating the future).  Synthesizing the courses below into a framework that can be applied to problem-solving in general, my take
 
 **Energy Minimization:** Why does energy flow from a hot object to a cold object, why does breaking a bond release more energy than it takes to break, why does a protein have a specific conformation (plus or minus vibration)? 
 
 **Networked Systems:** The 
+<details>
 
-A listing of some of the courses
-# A collapsible section with markdown
+### Courses
 <details>
   <summary>Click to expand!</summary>
 
