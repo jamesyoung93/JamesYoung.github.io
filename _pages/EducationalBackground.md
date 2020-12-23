@@ -26,7 +26,7 @@ Seminar I and II
 ### Big Ideas / Takeaways
 <details>
   <summary>Click to expand!</summary>
-<details>
+</details>
   
 ### Courses
 <details>
@@ -40,7 +40,7 @@ Data Mining
 Stat 542
 Non-parametric statistics
 Predictive analytics
-<details>
+</details>
 
 ## B.Sc., Biochemistry, University of Jamestown, 2013-2017
 ### Big Ideas
@@ -51,7 +51,7 @@ Big Ideas: Energy minimization (increasing entropy), networked systems (delegati
 **Energy Minimization:** Why does energy flow from a hot object to a cold object, why does breaking a bond release more energy than it takes to break, why does a protein have a specific conformation (plus or minus vibration)? 
 
 **Networked Systems:** The 
-<details>
+</details>
 
 ### Courses
 <details>
