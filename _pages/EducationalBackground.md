@@ -35,6 +35,7 @@ Seminar I and II
 
 <details>
   <summary>Courses: Click to expand!</summary>
+  
 Stat 600
 Stat 601 and 602
 Operations Research
@@ -69,16 +70,22 @@ Predictive analytics
 
 
 * Biochemistry I & II 
+
     * Protein folding and metabolic cycles. Protein folding is a highly complex process (with secondary, tertiary, and quaternary conformations) that is vital to functional proteins (which allow us to live). The process is basically an energy minimization process that balances variables of hydrophobicity, hydrophilicity, polarity, hydrogen bonds, and van der waals forces amongst other forces. Metabolic cycles consider the network of proteins that work together to break down or buildup molecules for energy or 
+    
 * PChem I (Thermodynamics) 
+
     * Partial differentials
+    
 * Calculus I & II
+
     * Derivatives and integrals, finding the velocity or acceleration or area under the curve.
  
 * Physics I & II
  
  
 * Organic Chem I & II
+
  Besides learning patterns of the periodic table for reactions, the concept that really sticks out to me is working backwards for planning. In this class it was planning a chemical synthesis, but this concept can be used elsewhere. Wheter constructing a house and working backward from the desired end product to ensure proper sequence or planning and executing project. 
  
 * General Chemistry I & II
@@ -88,6 +95,7 @@ Predictive analytics
 
  
 * Cellular Biology
+
   While this is a broad class covering 
  
  
