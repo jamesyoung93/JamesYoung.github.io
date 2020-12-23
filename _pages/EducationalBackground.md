@@ -1,6 +1,6 @@
 ---
 title: "Educational Background"
-permalink: /Educational_Background/
+permalink: /EducationalBackground/
 header:
   image: "/images/zakim.jpg"
 ---
