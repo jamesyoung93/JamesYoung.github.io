@@ -8,8 +8,12 @@ header:
 
 
 ## Ph.D., Molecular Biology, South Dakota State University, 2017-2021
-* Dissertation on Oxygen Tolerant Nitrogen Fixation in Photosynthetic Cyanobacteria
+**Dissertation:** Oxygen Tolerant Nitrogen Fixation in Photosynthetic Cyanobacteria (in progress)
 * Using molecular and bioinformatic techniques
+
+### Classes
+<details>
+  <summary>Click to expand!</summary>
 While a Ph.D. is more about producing original and rigorous research, some of the classes I took that directly contributed to my research include
 Next Generation Sequencing
 Stat 736 - Bioinformatics
@@ -18,7 +22,7 @@ Bacteriology
 Molecular Research Techniques
 Biological Imaging
 Seminar I and II
-
+</details>
 
 
 ## M.Sc., Data Science, South Dakota State University, 2020-2021
