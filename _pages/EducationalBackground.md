@@ -62,36 +62,36 @@ Big Ideas: Energy minimization (increasing entropy), networked systems (delegati
   <summary>Courses: Click to expand!</summary>
 
 
-+ Biochemistry I & II 
- - Protein folding and metabolic cycles. Protein folding is a highly complex process (with secondary, tertiary, and quaternary conformations) that is vital to functional proteins (which allow us to live). The process is basically an energy minimization process that balances variables of hydrophobicity, hydrophilicity, polarity, hydrogen bonds, and van der waals forces amongst other forces. Metabolic cycles consider the network of proteins that work together to break down or buildup molecules for energy or 
-PChem I (Thermodynamics) 
- - partial differentials
-Calculus I & II
- - Derivatives and integrals, finding the velocity or acceleration or area under the curve.
+* Biochemistry I & II 
+    * Protein folding and metabolic cycles. Protein folding is a highly complex process (with secondary, tertiary, and quaternary conformations) that is vital to functional proteins (which allow us to live). The process is basically an energy minimization process that balances variables of hydrophobicity, hydrophilicity, polarity, hydrogen bonds, and van der waals forces amongst other forces. Metabolic cycles consider the network of proteins that work together to break down or buildup molecules for energy or 
+* PChem I (Thermodynamics) 
+    * Partial differentials
+* Calculus I & II
+    * Derivatives and integrals, finding the velocity or acceleration or area under the curve.
  
-Physics I & II
- - 
- 
-Organic Chem I & II
- - Besides learning patterns of the periodic table for reactions, the concept that really sticks out to me is working backwards for planning. In this class it was planning a chemical synthesis, but this concept can be used elsewhere. Wheter constructing a house and working backward from the desired end product to ensure proper sequence or planning and executing project. 
- 
-General Chemistry I & II
- - 
- 
-Molecular Biology
- - 
- 
-Cellular Biology
- - While this is a broad class covering 
+* Physics I & II
  
  
-Genetics
- - Heritability, probability, structural considerations of genetics.
+* Organic Chem I & II
+ Besides learning patterns of the periodic table for reactions, the concept that really sticks out to me is working backwards for planning. In this class it was planning a chemical synthesis, but this concept can be used elsewhere. Wheter constructing a house and working backward from the desired end product to ensure proper sequence or planning and executing project. 
+ 
+* General Chemistry I & II
+ 
+ 
+* Molecular Biology
 
-Anatomy and Physiology I & II
- - 
+ 
+* Cellular Biology
+  While this is a broad class covering 
+ 
+ 
+* Genetics
+ Heritability, probability, structural considerations of genetics.
 
-General Biology I & II
- - Everything. I also TA'd 
+* Anatomy and Physiology I & II
+ 
+
+* General Biology I & II
+  Everything. I also TA'd 
 
 </details>
