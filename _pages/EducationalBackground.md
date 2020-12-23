@@ -69,13 +69,13 @@ Predictive analytics
   <summary>Courses: Click to expand!</summary>
 
 
-* Biochemistry I & II 
+Biochemistry I & II - 
 
-    * Protein folding and metabolic cycles. Protein folding is a highly complex process (with secondary, tertiary, and quaternary conformations) that is vital to functional proteins (which allow us to live). The process is basically an energy minimization process that balances variables of hydrophobicity, hydrophilicity, polarity, hydrogen bonds, and van der waals forces amongst other forces. Metabolic cycles consider the network of proteins that work together to break down or buildup molecules for energy or 
+    Protein folding and metabolic cycles. Protein folding is a highly complex process (with secondary, tertiary, and quaternary conformations) that is vital to functional proteins (which allow us to live). The process is basically an energy minimization process that balances variables of hydrophobicity, hydrophilicity, polarity, hydrogen bonds, and van der waals forces amongst other forces. Metabolic cycles consider the network of proteins that work together to break down or buildup molecules for energy or 
     
-* PChem I (Thermodynamics) 
+PChem I (Thermodynamics) -
 
-    * Partial differentials
+    Partial differentials
     
 * Calculus I & II
 
