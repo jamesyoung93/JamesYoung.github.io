@@ -120,6 +120,7 @@ author:
 include: 
   - .htaccess
   - _pages
+  - _pages/EducationalBackground/
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
