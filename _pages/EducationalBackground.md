@@ -50,11 +50,17 @@ Predictive analytics
 
 <details>
   <summary>Big Ideas: Click to expand!</summary>
-Big Ideas: Energy minimization (increasing entropy), networked systems (delegation, safe-guards), information (quantifiable measurements), and rate of change (anticipating the future).  Synthesizing the courses below into a framework that can be applied to problem-solving in general, my take
 
-**Energy Minimization:** Why does energy flow from a hot object to a cold object, why does breaking a bond release more energy than it takes to break, why does a protein have a specific conformation (plus or minus vibration)? 
 
-**Networked Systems:** The 
+* Energy Minimization (increasing entropy)
+    * Why does energy flow from a hot object to a cold object, why does breaking a bond release more energy than it takes to break, why does a protein have a specific conformation (plus or minus vibration)? 
+
+* Networked Systems (delegation, safe-guards)
+    * The 
+    
+ * Information (quantifiable measurements)
+ 
+ * Rate of change (anticipating the future)
 </details>
 
 
