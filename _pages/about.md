@@ -5,6 +5,4 @@ header:
   image: "/images/zakim.jpg"
 ---
 
-I'm a senior data scientist who excels at data wrangling, machine learning, exploratory analysis, and data visualizations.
-
-Etc, etc, etc
+I am a data scientist, Ph.D. candidate in molecular biology, and M.Sc. student in data science at South Dakota State University. I will finish my courses for both degrees and research for my Ph.D. in May 2021. My most recent data science experience has been an ongoing internship with NetApp working on statistical forecasting. 
