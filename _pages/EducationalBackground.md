@@ -11,9 +11,9 @@ header:
 **Dissertation:** Oxygen Tolerant Nitrogen Fixation in Photosynthetic Cyanobacteria (in progress)
 * Using molecular and bioinformatic techniques
 
-### Classes
+
 <details>
-  <summary>Click to expand!</summary>
+  <summary>Courses: Click to expand!</summary>
 While a Ph.D. is more about producing original and rigorous research, some of the classes I took that directly contributed to my research include
 Next Generation Sequencing
 Stat 736 - Bioinformatics
@@ -27,14 +27,14 @@ Seminar I and II
 
 ## M.Sc., Data Science, South Dakota State University, 2020-2021
 
-### Big Ideas / Takeaways
+
 <details>
-  <summary>Click to expand!</summary>
+  <summary>Big Ideas: Click to expand!</summary>
 </details>
   
-### Courses
+
 <details>
-  <summary>Click to expand!</summary>
+  <summary>Courses: Click to expand!</summary>
 Stat 600
 Stat 601 and 602
 Operations Research
@@ -47,9 +47,9 @@ Predictive analytics
 </details>
 
 ## B.Sc., Biochemistry, University of Jamestown, 2013-2017
-### Big Ideas
+
 <details>
-  <summary>Click to expand!</summary>
+  <summary>Big Ideas: Click to expand!</summary>
 Big Ideas: Energy minimization (increasing entropy), networked systems (delegation, safe-guards), information (quantifiable measurements), and rate of change (anticipating the future).  Synthesizing the courses below into a framework that can be applied to problem-solving in general, my take
 
 **Energy Minimization:** Why does energy flow from a hot object to a cold object, why does breaking a bond release more energy than it takes to break, why does a protein have a specific conformation (plus or minus vibration)? 
@@ -57,12 +57,12 @@ Big Ideas: Energy minimization (increasing entropy), networked systems (delegati
 **Networked Systems:** The 
 </details>
 
-### Courses
+
 <details>
-  <summary>Click to expand!</summary>
+  <summary>Courses: Click to expand!</summary>
 
 
-Biochemistry I & II 
++ Biochemistry I & II 
  - Protein folding and metabolic cycles. Protein folding is a highly complex process (with secondary, tertiary, and quaternary conformations) that is vital to functional proteins (which allow us to live). The process is basically an energy minimization process that balances variables of hydrophobicity, hydrophilicity, polarity, hydrogen bonds, and van der waals forces amongst other forces. Metabolic cycles consider the network of proteins that work together to break down or buildup molecules for energy or 
 PChem I (Thermodynamics) 
  - partial differentials
