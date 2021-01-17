@@ -14,6 +14,7 @@ header:
 
 <details>
   <summary>Courses: Click to expand!</summary>
+  
 * Next Generation Sequencing
 * Stat 736 - Bioinformatics
 * Advanced Molecular Biology
@@ -25,6 +26,7 @@ header:
 * Research Ethics
 * Stat 541 - Statistical Methods
 * Dissertation Credits - Research, Analysis, and Writing
+  
 </details>
 
 
