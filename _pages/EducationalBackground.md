@@ -14,14 +14,17 @@ header:
 
 <details>
   <summary>Courses: Click to expand!</summary>
-While a Ph.D. is more about producing original and rigorous research, some of the classes I took that directly contributed to my research include
-Next Generation Sequencing
-Stat 736 - Bioinformatics
-Advanced Molecular Biology
-Bacteriology
-Molecular Research Techniques
-Biological Imaging
-Seminar I and II
+* Next Generation Sequencing
+* Stat 736 - Bioinformatics
+* Advanced Molecular Biology
+* Bacteriology
+* Molecular Research Techniques
+* Biological Imaging
+* Seminar I and II
+* Grant Writing
+* Research Ethics
+* Stat 541 - Statistical Methods
+* Dissertation Credits - Research, Analysis, and Writing
 </details>
 
 
@@ -36,74 +39,38 @@ Seminar I and II
 <details>
   <summary>Courses: Click to expand!</summary>
   
-Stat 600
-Stat 601 and 602
-Operations Research
-Time Series Analysis
-Big Data Warehousing 
-Data Mining
-Stat 542
-Non-parametric statistics
-Predictive analytics
+* STAT 600 - Statistical Programming
+* STAT 601 - Modern Applied Statistics I
+* STAT 602 - Modern Applied Statistics II
+* MATH 575 - Operations Research 
+* STAT 545 - Nonparametric Statistics
+* STAT 551 - Predictive Analytics I
+* STAT 560 - Time Series Analysis
+* INFS 762 - Data Warehousing and Data Mining Credits
+* INFS 772 - Programming for Data Analytics Credits
+* INFS 774 - Big Data Analytics Credits
+
 </details>
 
 ## B.Sc., Biochemistry, University of Jamestown, 2013-2017
 
-<details>
-  <summary>Big Ideas: Click to expand!</summary>
-
-
-* Energy Minimization (increasing entropy)
-    * Why does energy flow from a hot object to a cold object, why does breaking a bond release more energy than it takes to break, why does a protein have a specific conformation (plus or minus vibration)? 
-
-* Networked Systems (delegation, safe-guards)
-    * The 
-    
- * Information (quantifiable measurements)
- 
- * Rate of change (anticipating the future)
-</details>
 
 
 <details>
   <summary>Courses: Click to expand!</summary>
 
-* Biochemistry I & II
-    * Protein folding and metabolic cycles. Protein folding is a highly complex process (with secondary, tertiary, and quaternary conformations) that is vital to functional proteins (which allow us to live). The process is basically an energy minimization process that balances variables of hydrophobicity, hydrophilicity, polarity, hydrogen bonds, and van der waals forces amongst other forces. Metabolic cycles consider the network of proteins that work together to break down or buildup molecules for energy or 
-    
-* PChem I (Thermodynamics)
-
-    * Partial differentials
-    
+* Biochemistry I & II  
+* PChem I (Thermodynamics) 
 * Calculus I & II
-
-    * Derivatives and integrals, finding the velocity or acceleration or area under the curve.
- 
 * Physics I & II
- 
- 
 * Organic Chem I & II
-
- Besides learning patterns of the periodic table for reactions, the concept that really sticks out to me is working backwards for planning. In this class it was planning a chemical synthesis, but this concept can be used elsewhere. Wheter constructing a house and working backward from the desired end product to ensure proper sequence or planning and executing project. 
- 
 * General Chemistry I & II
- 
- 
 * Molecular Biology
-
- 
 * Cellular Biology
-
-    * While this is a broad class covering 
- 
- 
 * Genetics
- Heritability, probability, structural considerations of genetics.
-
 * Anatomy and Physiology I & II
- 
-
 * General Biology I & II
-  Everything. I also TA'd 
+* Electives
+
 
 </details>
