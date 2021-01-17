@@ -9,7 +9,7 @@ header:
 
 ## Ph.D., Molecular Biology, South Dakota State University, 2017-2021
 **Dissertation:** Oxygen Tolerant Nitrogen Fixation in Photosynthetic Cyanobacteria (in progress)
-* Using molecular and bioinformatic techniques
+
 
 
 <details>
