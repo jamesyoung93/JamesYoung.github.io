@@ -32,11 +32,6 @@ header:
 
 
 <details>
-  <summary>Big Ideas: Click to expand!</summary>
-</details>
-  
-
-<details>
   <summary>Courses: Click to expand!</summary>
   
 * STAT 600 - Statistical Programming
