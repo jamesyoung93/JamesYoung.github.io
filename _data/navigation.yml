@@ -4,7 +4,7 @@ main:
     url: /about/
   - title: "Experience"
     url: /experience/
-  - title: "Projects"
+  - title: "Blog Posts"
     url: /data-wrangling/
   - title: "Education"
     url: /EducationalBackground/
