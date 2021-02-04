@@ -1,6 +1,6 @@
 ---
-title: "Reproducible Workflows with Drake"
-date: 2020-01-18
+title: "How To Make A Standalone Desktop Application With Shiny and Electron On Windows"
+date: 2020-02-04
 tags: [Shiny, R, dashboards, electron apps, standalone, secure, data security]
 excerpt: "How To Make A Standalone Desktop Application With Shiny and Electron On Windows."
 mathjax: "true"
