@@ -1,7 +1,7 @@
 ---
 layout: posts
 permalink: /data-wrangling/
-title: "Projects"
+title: "Blog Posts"
 author_profile: true
 header:
   image: "/images/fort point.png"
